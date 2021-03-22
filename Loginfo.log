@@ -1,0 +1,255 @@
+2021-03-18 22:01:17,661 INFO  [Log] Launching browser with Firefox 
+2021-03-18 22:01:21,008 INFO  [Log] Navigating to Urlhttps://www.makemytrip.com 
+2021-03-18 22:01:26,113 INFO  [Log] Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //*[@data-cy='googleLogin']' (tried for 5 second(s) with 500 milliseconds interval) 
+2021-03-18 22:01:26,117 INFO  [Log] Choosing full Path by account option 
+2021-03-18 22:01:26,437 INFO  [Log] Trying element click0 
+2021-03-18 22:01:26,654 INFO  [Log] Trying element click1 
+2021-03-18 22:01:26,862 INFO  [Log] Trying element click2 
+2021-03-18 22:01:27,047 INFO  [Log] Trying element click3 
+2021-03-18 22:01:27,238 INFO  [Log] Trying element click4 
+2021-03-18 22:01:27,666 INFO  [Log] Entering username mmttest1701@gmail.com 
+2021-03-18 22:01:30,349 INFO  [Log] Entering password @Test1234 
+2021-03-18 22:01:38,523 INFO  [Log] Clicking on //*[@data-cy='menu_Hotels']/a 
+2021-03-18 22:01:39,320 INFO  [Log] Delhi
+2088 properties
+City 
+2021-03-18 22:01:39,853 INFO  [Log] checkout index3 
+2021-03-18 22:01:42,669 INFO  [Log] CheckInDay21 
+2021-03-18 22:01:42,682 INFO  [Log] checkinMonthMar 
+2021-03-18 22:01:42,697 INFO  [Log] checkinYear21 
+2021-03-18 22:01:42,712 INFO  [Log] checkOutDay25 
+2021-03-18 22:01:42,724 INFO  [Log] checkOutMonthMar 
+2021-03-18 22:01:42,737 INFO  [Log] checkOutYear21 
+2021-03-18 22:01:45,522 INFO  [Log] Amount is ₹ 0 
+2021-03-18 22:01:45,524 INFO  [Log] Amount Rrquired2000 
+2021-03-18 22:01:45,538 INFO  [Log] is not Contains Amounttrue 
+2021-03-18 22:01:45,644 INFO  [Log] Amount is ₹ 2000 
+2021-03-18 22:01:45,647 INFO  [Log] Amount Rrquired2000 
+2021-03-18 22:01:45,662 INFO  [Log] is not Contains Amountfalse 
+2021-03-18 22:01:51,504 INFO  [Log] Aloft New Delhi Aerocity 
+2021-03-18 22:01:51,972 INFO  [Log] about:blank 
+2021-03-18 22:01:55,146 INFO  [Log] isBreadcrumbs visible true 
+2021-03-18 22:01:55,394 INFO  [Log]  
+2021-03-18 22:01:55,472 INFO  [Log]  
+2021-03-18 22:01:55,507 INFO  [Log] Wait for hotelName to appeartrue 
+2021-03-18 22:01:55,509 INFO  [Log]  
+2021-03-18 22:01:55,521 INFO  [Log] Aloft New Delhi Aerocity 
+2021-03-18 22:01:56,284 INFO  [Log] Size of room Now1 
+2021-03-18 22:01:56,628 INFO  [Log] Size of room Now2 
+2021-03-18 22:01:56,910 INFO  [Log] Size of room Now3 
+2021-03-18 22:01:57,272 INFO  [Log] Size of room Now4 
+2021-03-18 22:01:57,483 INFO  [Log] Total Booking chareges₹13,655 
+2021-03-18 22:01:57,485 INFO  [Log] Total tax chareges+₹ 1,639 taxes & fees 
+2021-03-18 22:01:57,488 INFO  [Log] Total Guest informationPer night for 4 Room 
+2021-03-18 22:01:57,498 INFO  [Log] REVIEW DETAILS 
+2021-03-18 22:03:56,273 INFO  [Log] Launching browser with Firefox 
+2021-03-18 22:03:59,439 INFO  [Log] Navigating to Urlhttps://www.makemytrip.com 
+2021-03-18 22:04:00,077 INFO  [Log] Entering username mmttest1701@gmail.com 
+2021-03-18 22:04:05,112 INFO  [Log] Expected condition failed: waiting for visibility of [[FirefoxDriver: firefox on MAC (74d94639-6adb-944b-8e87-d802e8d549f4)] -> xpath: //*[@type='email']] (tried for 5 second(s) with 500 milliseconds interval) 
+2021-03-18 22:04:06,528 INFO  [Log] Entering password @Test1234 
+2021-03-18 22:04:13,236 INFO  [Log] Clicking on //*[@data-cy='menu_Hotels']/a 
+2021-03-18 22:04:14,009 INFO  [Log] Delhi
+2088 properties
+City 
+2021-03-18 22:04:14,534 INFO  [Log] checkout index3 
+2021-03-18 22:04:17,250 INFO  [Log] CheckInDay21 
+2021-03-18 22:04:17,266 INFO  [Log] checkinMonthMar 
+2021-03-18 22:04:17,281 INFO  [Log] checkinYear21 
+2021-03-18 22:04:17,301 INFO  [Log] checkOutDay25 
+2021-03-18 22:04:17,320 INFO  [Log] checkOutMonthMar 
+2021-03-18 22:04:17,332 INFO  [Log] checkOutYear21 
+2021-03-18 22:04:19,887 INFO  [Log] Amount is ₹ 0 
+2021-03-18 22:04:19,895 INFO  [Log] Amount Rrquired2000 
+2021-03-18 22:04:19,914 INFO  [Log] is not Contains Amounttrue 
+2021-03-18 22:04:20,008 INFO  [Log] Amount is ₹ 2500 
+2021-03-18 22:04:20,013 INFO  [Log] Amount Rrquired2000 
+2021-03-18 22:04:20,030 INFO  [Log] is not Contains Amounttrue 
+2021-03-18 22:04:20,114 INFO  [Log] Amount is ₹ 3500 
+2021-03-18 22:04:20,117 INFO  [Log] Amount Rrquired2000 
+2021-03-18 22:04:20,129 INFO  [Log] is not Contains Amounttrue 
+2021-03-18 22:04:20,204 INFO  [Log] Amount is ₹ 6000 
+2021-03-18 22:04:20,207 INFO  [Log] Amount Rrquired2000 
+2021-03-18 22:04:20,237 INFO  [Log] is not Contains Amounttrue 
+2021-03-18 22:04:20,322 INFO  [Log] Amount is ₹ 6000 
+2021-03-18 22:04:20,325 INFO  [Log] Amount Rrquired2000 
+2021-03-18 22:04:20,337 INFO  [Log] is not Contains Amounttrue 
+2021-03-18 22:04:20,378 INFO  [Log] Amount is ₹ 6000 
+2021-03-18 22:04:20,380 INFO  [Log] Amount Rrquired2000 
+2021-03-18 22:04:20,392 INFO  [Log] is not Contains Amounttrue 
+2021-03-18 22:04:22,670 INFO  [Log] Aloft New Delhi Aerocity 
+2021-03-18 22:04:23,120 INFO  [Log] about:blank 
+2021-03-18 22:04:26,013 INFO  [Log] isBreadcrumbs visible true 
+2021-03-18 22:04:26,089 INFO  [Log]  
+2021-03-18 22:04:26,138 INFO  [Log]  
+2021-03-18 22:04:26,173 INFO  [Log] Wait for hotelName to appeartrue 
+2021-03-18 22:04:26,175 INFO  [Log]  
+2021-03-18 22:04:26,187 INFO  [Log] Aloft New Delhi Aerocity 
+2021-03-18 22:04:26,894 INFO  [Log] Size of room Now1 
+2021-03-18 22:04:27,195 INFO  [Log] Size of room Now2 
+2021-03-18 22:04:27,496 INFO  [Log] Size of room Now3 
+2021-03-18 22:04:27,793 INFO  [Log] Size of room Now4 
+2021-03-18 22:04:28,434 INFO  [Log] Total Booking chareges₹2,950 
+2021-03-18 22:04:28,435 INFO  [Log] Total tax chareges+₹ 354 taxes & fees 
+2021-03-18 22:04:28,437 INFO  [Log] Total Guest informationPer Night 
+2021-03-18 22:04:28,447 INFO  [Log] REVIEW DETAILS 
+2021-03-18 22:05:43,460 INFO  [Log] Launching browser with Firefox 
+2021-03-18 22:05:48,490 INFO  [Log] Navigating to Urlhttps://www.makemytrip.com 
+2021-03-18 22:05:53,582 INFO  [Log] Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //*[@data-cy='googleLogin']' (tried for 5 second(s) with 500 milliseconds interval) 
+2021-03-18 22:05:53,586 INFO  [Log] Choosing full Path by account option 
+2021-03-18 22:05:53,900 INFO  [Log] Trying element click0 
+2021-03-18 22:05:54,347 INFO  [Log] Trying element click1 
+2021-03-18 22:05:54,532 INFO  [Log] Trying element click2 
+2021-03-18 22:05:54,719 INFO  [Log] Trying element click3 
+2021-03-18 22:05:54,902 INFO  [Log] Trying element click4 
+2021-03-18 22:05:55,128 INFO  [Log] Entering username mmttest1701@gmail.com 
+2021-03-18 22:05:57,726 INFO  [Log] Entering password @Test1234 
+2021-03-18 22:06:30,732 INFO  [Log] Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //*[text()='Verify Mobile Number']' (tried for 30 second(s) with 500 milliseconds interval) 
+2021-03-18 22:06:30,741 INFO  [Log] Clicking on //*[@data-cy='menu_Hotels']/a 
+2021-03-18 22:06:31,577 INFO  [Log] Delhi
+2088 properties
+City 
+2021-03-18 22:06:32,100 INFO  [Log] checkout index3 
+2021-03-18 22:06:34,744 INFO  [Log] CheckInDay21 
+2021-03-18 22:06:34,757 INFO  [Log] checkinMonthMar 
+2021-03-18 22:06:34,774 INFO  [Log] checkinYear21 
+2021-03-18 22:06:34,787 INFO  [Log] checkOutDay25 
+2021-03-18 22:06:34,799 INFO  [Log] checkOutMonthMar 
+2021-03-18 22:06:34,811 INFO  [Log] checkOutYear21 
+2021-03-18 22:06:37,700 INFO  [Log] Amount is ₹ 0 
+2021-03-18 22:06:37,703 INFO  [Log] Amount Rrquired2000 
+2021-03-18 22:06:37,715 INFO  [Log] is not Contains Amounttrue 
+2021-03-18 22:06:37,799 INFO  [Log] Amount is ₹ 2500 
+2021-03-18 22:06:37,801 INFO  [Log] Amount Rrquired2000 
+2021-03-18 22:06:37,814 INFO  [Log] is not Contains Amounttrue 
+2021-03-18 22:06:37,893 INFO  [Log] Amount is ₹ 3500 
+2021-03-18 22:06:37,895 INFO  [Log] Amount Rrquired2000 
+2021-03-18 22:06:37,907 INFO  [Log] is not Contains Amounttrue 
+2021-03-18 22:06:37,975 INFO  [Log] Amount is ₹ 6000 
+2021-03-18 22:06:37,980 INFO  [Log] Amount Rrquired2000 
+2021-03-18 22:06:37,999 INFO  [Log] is not Contains Amounttrue 
+2021-03-18 22:06:38,032 INFO  [Log] Amount is ₹ 6000 
+2021-03-18 22:06:38,036 INFO  [Log] Amount Rrquired2000 
+2021-03-18 22:06:38,057 INFO  [Log] is not Contains Amounttrue 
+2021-03-18 22:06:38,116 INFO  [Log] Amount is ₹ 6000 
+2021-03-18 22:06:38,119 INFO  [Log] Amount Rrquired2000 
+2021-03-18 22:06:38,131 INFO  [Log] is not Contains Amounttrue 
+2021-03-18 22:06:40,899 INFO  [Log] Aloft New Delhi Aerocity 
+2021-03-18 22:06:41,281 INFO  [Log] about:blank 
+2021-03-18 22:06:45,283 INFO  [Log] isBreadcrumbs visible true 
+2021-03-18 22:06:45,437 INFO  [Log]  
+2021-03-18 22:06:45,522 INFO  [Log]  
+2021-03-18 22:06:45,572 INFO  [Log] Wait for hotelName to appeartrue 
+2021-03-18 22:06:45,573 INFO  [Log]  
+2021-03-18 22:06:45,586 INFO  [Log] Aloft New Delhi Aerocity 
+2021-03-18 22:06:46,292 INFO  [Log] Size of room Now1 
+2021-03-18 22:06:46,681 INFO  [Log] Size of room Now2 
+2021-03-18 22:06:47,013 INFO  [Log] Size of room Now3 
+2021-03-18 22:06:47,297 INFO  [Log] Size of room Now4 
+2021-03-18 22:06:49,031 INFO  [Log] Total Booking chareges₹5,900 
+2021-03-18 22:06:49,033 INFO  [Log] Total tax chareges+₹ 708 taxes & fees 
+2021-03-18 22:06:49,035 INFO  [Log] Total Guest informationPer night for 2 Room 
+2021-03-18 22:06:49,046 INFO  [Log] REVIEW DETAILS 
+2021-03-18 22:08:53,927 INFO  [Log] Launching browser with Firefox 
+2021-03-18 22:09:26,159 INFO  [Log] Navigating to Urlhttps://www.makemytrip.com 
+2021-03-18 22:09:26,777 INFO  [Log] Entering username mmttest1701@gmail.com 
+2021-03-18 22:09:29,872 INFO  [Log] Entering password @Test1234 
+2021-03-18 22:09:36,905 INFO  [Log] Clicking on //*[@data-cy='menu_Hotels']/a 
+2021-03-18 22:09:36,953 INFO  [Log] Element <a class="makeFlex hrtlCenter column" href="https://www.makemytrip.com/hotels/"> is not clickable at point (332,126) because another element <div class="loginModal displayBlock modalLogin dynHeight personal "> obscures it
+Build info: version: '4.0.0-beta-1', revision: '9c03156c2b'
+System info: host: 'Harshits-Mac-mini.local', ip: '192.168.0.11', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.7', java.version: '1.8.0_251'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [5a6c1ee2-7f5a-d745-86bd-45141a7bec27, clickElement {id=1aa80801-ba70-6440-a436-7a47d7f90089}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 86.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210310152336, moz:debuggerAddress: localhost:49628, moz:geckodriverVersion: 0.29.0, moz:headless: false, moz:processID: 6410, moz:profile: /var/folders/js/jvvbb7tj01x..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: MAC, platformName: MAC, platformVersion: 19.6.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Element: [[FirefoxDriver: firefox on MAC (5a6c1ee2-7f5a-d745-86bd-45141a7bec27)] -> xpath: //*[@data-cy='menu_Hotels']/a]
+Session ID: 5a6c1ee2-7f5a-d745-86bd-45141a7bec27 
+2021-03-18 22:10:03,536 INFO  [Log] Launching browser with Firefox 
+2021-03-18 22:10:08,229 INFO  [Log] Navigating to Urlhttps://www.makemytrip.com 
+2021-03-18 22:10:08,905 INFO  [Log] Entering username mmttest1701@gmail.com 
+2021-03-18 22:10:13,945 INFO  [Log] Expected condition failed: waiting for visibility of [[FirefoxDriver: firefox on MAC (384ac8d5-5bb2-6c46-839d-ebef48cb90d7)] -> xpath: //*[@type='email']] (tried for 5 second(s) with 500 milliseconds interval) 
+2021-03-18 22:10:15,377 INFO  [Log] Entering password @Test1234 
+2021-03-18 22:10:24,016 INFO  [Log] Clicking on //*[@data-cy='menu_Hotels']/a 
+2021-03-18 22:10:24,064 INFO  [Log] Element <a class="makeFlex hrtlCenter column" href="https://www.makemytrip.com/hotels/"> is not clickable at point (332,126) because another element <div class="loginModal displayBlock modalLogin dynHeight personal "> obscures it
+Build info: version: '4.0.0-beta-1', revision: '9c03156c2b'
+System info: host: 'Harshits-Mac-mini.local', ip: '192.168.0.11', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.7', java.version: '1.8.0_251'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [384ac8d5-5bb2-6c46-839d-ebef48cb90d7, clickElement {id=837ffd59-1285-4643-9428-f35170d653a3}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 86.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210310152336, moz:debuggerAddress: localhost:49852, moz:geckodriverVersion: 0.29.0, moz:headless: false, moz:processID: 6425, moz:profile: /var/folders/js/jvvbb7tj01x..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: MAC, platformName: MAC, platformVersion: 19.6.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Element: [[FirefoxDriver: firefox on MAC (384ac8d5-5bb2-6c46-839d-ebef48cb90d7)] -> xpath: //*[@data-cy='menu_Hotels']/a]
+Session ID: 384ac8d5-5bb2-6c46-839d-ebef48cb90d7 
+2021-03-18 22:10:56,443 INFO  [Log] Launching browser with Firefox 
+2021-03-18 22:10:59,669 INFO  [Log] Navigating to Urlhttps://www.makemytrip.com 
+2021-03-18 22:11:00,270 INFO  [Log] Entering username mmttest1701@gmail.com 
+2021-03-18 22:11:05,306 INFO  [Log] Expected condition failed: waiting for visibility of [[FirefoxDriver: firefox on MAC (8dd1c071-ff68-a748-b6d6-4a35df16f9da)] -> xpath: //*[@type='email']] (tried for 5 second(s) with 500 milliseconds interval) 
+2021-03-18 22:11:06,729 INFO  [Log] Entering password @Test1234 
+2021-03-18 22:11:12,343 INFO  [Log] logged In usernameHey gap 
+2021-03-18 22:11:12,388 INFO  [Log] Clicking on //*[@data-cy='menu_Hotels']/a 
+2021-03-18 22:11:13,154 INFO  [Log] Delhi
+2088 properties
+City 
+2021-03-18 22:11:13,671 INFO  [Log] checkout index3 
+2021-03-18 22:11:16,416 INFO  [Log] CheckInDay21 
+2021-03-18 22:11:16,433 INFO  [Log] checkinMonthMar 
+2021-03-18 22:11:16,452 INFO  [Log] checkinYear21 
+2021-03-18 22:11:16,476 INFO  [Log] checkOutDay25 
+2021-03-18 22:11:16,489 INFO  [Log] checkOutMonthMar 
+2021-03-18 22:11:16,503 INFO  [Log] checkOutYear21 
+2021-03-18 22:11:19,741 INFO  [Log] Amount is ₹ 0 
+2021-03-18 22:11:19,745 INFO  [Log] Amount Rrquired2000 
+2021-03-18 22:11:19,781 INFO  [Log] is not Contains Amounttrue 
+2021-03-18 22:11:19,937 INFO  [Log] Amount is ₹ 2500 
+2021-03-18 22:11:19,940 INFO  [Log] Amount Rrquired2000 
+2021-03-18 22:11:20,008 INFO  [Log] is not Contains Amounttrue 
+2021-03-18 22:11:20,114 INFO  [Log] Amount is ₹ 3500 
+2021-03-18 22:11:20,121 INFO  [Log] Amount Rrquired2000 
+2021-03-18 22:11:20,148 INFO  [Log] is not Contains Amounttrue 
+2021-03-18 22:11:20,244 INFO  [Log] Amount is ₹ 6000 
+2021-03-18 22:11:20,248 INFO  [Log] Amount Rrquired2000 
+2021-03-18 22:11:20,261 INFO  [Log] is not Contains Amounttrue 
+2021-03-18 22:11:20,299 INFO  [Log] Amount is ₹ 6000 
+2021-03-18 22:11:20,301 INFO  [Log] Amount Rrquired2000 
+2021-03-18 22:11:20,314 INFO  [Log] is not Contains Amounttrue 
+2021-03-18 22:11:20,349 INFO  [Log] Amount is ₹ 6000 
+2021-03-18 22:11:20,355 INFO  [Log] Amount Rrquired2000 
+2021-03-18 22:11:20,365 INFO  [Log] is not Contains Amounttrue 
+2021-03-18 22:11:23,229 INFO  [Log] Aloft New Delhi Aerocity 
+2021-03-18 22:11:23,594 INFO  [Log] about:blank 
+2021-03-18 22:11:27,012 INFO  [Log] isBreadcrumbs visible true 
+2021-03-18 22:11:27,107 INFO  [Log]  
+2021-03-18 22:11:27,165 INFO  [Log]  
+2021-03-18 22:11:27,214 INFO  [Log] Wait for hotelName to appeartrue 
+2021-03-18 22:11:27,217 INFO  [Log]  
+2021-03-18 22:11:27,382 INFO  [Log] Aloft New Delhi Aerocity 
+2021-03-18 22:11:28,500 INFO  [Log] Size of room Now1 
+2021-03-18 22:11:28,818 INFO  [Log] Size of room Now2 
+2021-03-18 22:11:29,167 INFO  [Log] Size of room Now3 
+2021-03-18 22:11:29,564 INFO  [Log] Size of room Now4 
+2021-03-18 22:11:29,673 INFO  [Log] Total Booking chareges₹9,705 
+2021-03-18 22:11:29,675 INFO  [Log] Total tax chareges+₹ 1,165 taxes & fees 
+2021-03-18 22:11:29,678 INFO  [Log] Total Guest informationPer night for 3 Room 
+2021-03-18 22:11:29,690 INFO  [Log] REVIEW DETAILS 
+2021-03-18 22:11:33,476 INFO  [Log] The element reference of <p class="rvHeader__heading"> is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed
+For documentation on this error, please visit: https://selenium.dev/exceptions/#stale_element_reference
+Build info: version: '4.0.0-beta-1', revision: '9c03156c2b'
+System info: host: 'Harshits-Mac-mini.local', ip: '192.168.0.11', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.7', java.version: '1.8.0_251'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [8dd1c071-ff68-a748-b6d6-4a35df16f9da, isElementDisplayed {id=800d6aa2-3787-d043-8070-c4fcd963ecf1}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 86.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210310152336, moz:debuggerAddress: localhost:50057, moz:geckodriverVersion: 0.29.0, moz:headless: false, moz:processID: 6475, moz:profile: /var/folders/js/jvvbb7tj01x..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: MAC, platformName: MAC, platformVersion: 19.6.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Element: [[FirefoxDriver: firefox on MAC (8dd1c071-ff68-a748-b6d6-4a35df16f9da)] -> xpath: //*[text()='Review your Booking']]
+Session ID: 8dd1c071-ff68-a748-b6d6-4a35df16f9da 
+2021-03-20 00:04:41,178 INFO  [Log] Launching browser with Firefox 
+2021-03-20 00:04:44,486 INFO  [Log] Navigating to Urlhttps://www.makemytrip.com 
+2021-03-20 00:04:57,794 INFO  [Log] Entering username mmttest1701@gmail.com 
+2021-03-20 00:04:59,286 INFO  [Log] Entering password @Test1234 
+2021-03-22 11:43:42,783 INFO  [Log] Launching browser with Firefox 
+2021-03-22 11:44:08,947 INFO  [Log] Navigating to Urlhttps://www.makemytrip.com 
+2021-03-22 11:44:14,199 INFO  [Log] Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //*[@data-cy='googleLogin']' (tried for 5 second(s) with 500 milliseconds interval) 
+2021-03-22 11:44:14,204 INFO  [Log] Choosing full Path by account option 
+2021-03-22 11:44:14,538 INFO  [Log] Trying element click0 
+2021-03-22 11:44:16,511 INFO  [Log] Trying element click1 
+2021-03-22 11:44:16,939 INFO  [Log] Trying element click2 
+2021-03-22 11:44:17,308 INFO  [Log] Trying element click3 
+2021-03-22 11:44:17,524 INFO  [Log] Trying element click4 
+2021-03-22 11:44:20,099 INFO  [Log] Entering username mmttest1701@gmail.com 
+2021-03-22 11:44:21,658 INFO  [Log] Entering password @Test1234 
+2021-03-22 11:44:57,166 INFO  [Log] Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //*[text()='Verify Mobile Number']' (tried for 30 second(s) with 500 milliseconds interval) 
+2021-03-22 11:44:57,176 INFO  [Log] Clicking on //*[@data-cy='menu_Hotels']/a 
